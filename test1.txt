@@ -1,2 +1,6 @@
 test分支冲突1
+<<<<<<< HEAD
 testfenzchongru 2
+=======
+testfenzchongru 3
+>>>>>>> chage_test
