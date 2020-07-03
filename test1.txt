@@ -1,2 +1,6 @@
 test分支冲突1
+<<<<<<< HEAD
 testfenzchongru 3
+=======
+testfenzchongru 3
+>>>>>>> b34ef0048c8dae4062c434a2d592ea1aaf10d955
